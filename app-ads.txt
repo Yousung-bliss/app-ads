@@ -1,5 +1,6 @@
 google.com, pub-4301418599227694, DIRECT, f08c47fec0942fa0
 facebook.com, 1391868745203195, DIRECT, c3e20eee3f780d68
+OWNERDOMAIN=https://yousung-bliss.github.io/app-ads/
 ironsrc.com, 645065, DIRECT
 
 blueseasx.com, 203625, RESELLER
